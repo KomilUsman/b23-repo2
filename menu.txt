@@ -10,3 +10,5 @@ Lunch menu :
 plov 2000 cal 15.99
 
 Burger 10000 cal 5.99
+
+Pizza
